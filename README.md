@@ -1,3 +1,3 @@
 # 1_repo
-my first git repository<br>author- Rehan
+my first git repository<br>author-  Mohammed Rehan
 
